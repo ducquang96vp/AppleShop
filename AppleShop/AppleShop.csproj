@@ -12,4 +12,12 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Application\Commands\" />
+    <Folder Include="Application\Models\" />
+    <Folder Include="Application\Queries\" />
+    <Folder Include="Dtos\Responses\" />
+    <Folder Include="Dtos\Requests\" />
+  </ItemGroup>
+
 </Project>

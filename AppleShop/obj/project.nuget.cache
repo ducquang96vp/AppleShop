@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYzjB4gLMgN7I3ZyJHVynYl6sCcXg6sDwLmvGf+0H+uIPh0OWBdkDtexQY6sAz3sDlXg/Qw44BqPGuyJh1B6CQ==",
+  "success": true,
+  "projectFilePath": "D:\\AppleShop\\AppleShop\\AppleShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quangdd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
